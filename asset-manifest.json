@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kimcurly.github.io/index.html/static/css/main.3af08fcd.css",
+    "main.js": "/Kimcurly.github.io/index.html/static/js/main.6eaa863c.js",
+    "static/js/787.f4b9e84d.chunk.js": "/Kimcurly.github.io/index.html/static/js/787.f4b9e84d.chunk.js",
+    "index.html": "/Kimcurly.github.io/index.html/index.html",
+    "main.3af08fcd.css.map": "/Kimcurly.github.io/index.html/static/css/main.3af08fcd.css.map",
+    "main.6eaa863c.js.map": "/Kimcurly.github.io/index.html/static/js/main.6eaa863c.js.map",
+    "787.f4b9e84d.chunk.js.map": "/Kimcurly.github.io/index.html/static/js/787.f4b9e84d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3af08fcd.css",
+    "static/js/main.6eaa863c.js"
+  ]
+}
